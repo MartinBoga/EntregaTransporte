@@ -1,4 +1,4 @@
-package com.empresa.transporte.modelo;
+package apps;
 
 public class Paquete {
     private double alto;
