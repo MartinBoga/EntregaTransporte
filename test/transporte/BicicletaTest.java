@@ -61,6 +61,4 @@ public class BicicletaTest {
         // ya no se deberia poder un 3er paquete
         assertFalse(bicicleta.puedeTransportar(new Paquete(0.1, 0.1, 0.1, 0.1, "Ramos mejia")));
     }
-
-    
 }
